@@ -51,6 +51,7 @@ def converter_pdf_para_word():
         messagebox.showerror("Erro", f"Erro ao converter o arquivo: {e}")
 
 def converter_word_para_pdf():
+
     inputFile = filedialog.askopenfilename(filetypes=[("WORD Files", "*.docx"), ("WORD Files 97-2003", "*.doc")])
 
     if not inputFile:
@@ -99,7 +100,7 @@ def abrir_pasta():
 # Criar a janela principal
 root = tk.Tk()
 root.title("Conversor de Documentos | By: Sidnei Santiago")
-root.geometry("526x203+300+150")
+root.geometry("526x230+300+150")
 root.resizable(height=False, width=False)
 
 # Criar um botão para selecionar o arquivo e converter
