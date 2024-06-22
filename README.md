@@ -22,3 +22,5 @@
   Rode o comando python <i>ConvesorDOC.py</i> para executar o projeto. Escolha primeira opção para converter um documento PDF para Word ou a segunda opção para converter um Word para pdf.
   O terceiro botão "Abrir Pasta" abre o diretório onde os arquivos convertidos estão guardados.
 </p>
+
+<img src="image.png">
