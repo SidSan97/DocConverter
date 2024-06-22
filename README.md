@@ -24,3 +24,7 @@
 </p>
 
 <img src="image.png">
+
+<strong>Baixe o executavél do projeto</strong>
+<p>Caso queira rodar o projeto como um simples software com apenas 2 cliques é so clicar no link a seguir:</p>
+https://github.com/SidSan97/DocConverter/releases/download/v1.0/Conversor.de.Documentos.zip
